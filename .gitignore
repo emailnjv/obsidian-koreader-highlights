@@ -1,5 +1,4 @@
 # Editors (VSCode, IntelliJ, Zed)
-.vscode
 *.iml
 .idea
 .zed
@@ -22,3 +21,6 @@ snapshots
 
 # OS
 .DS_Store
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
